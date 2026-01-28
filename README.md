@@ -14,9 +14,6 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.instagram.com/ektoras_klt" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
  **<h3 align="left">I'm a passionate undergradute university student.I constantly push myself to explore and share as many ideas and projects as I can, especially in the areas that truly interest me. My main goal is to learn through hands-on experience, and every project I take on is part of that journey.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
@@ -48,6 +45,5 @@
 
 ---
 
-### Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Hektor754&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.instagram.com/ektoras_klt" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
