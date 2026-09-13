@@ -36,12 +36,5 @@
  
 ---
 
- **<h3 align="left">GitHub Stats</h3>**
-
-![](https://nirzak-streak-stats.vercel.app/?user=ekalantzis&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekalantzis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.instagram.com/ektoras_klt" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
