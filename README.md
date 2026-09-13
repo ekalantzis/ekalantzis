@@ -18,9 +18,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- I'm currently learning: **Offensive Security and Cryptography**
-- Ask me about: **Python, Blender**
-- Fun fact: **Passed Data Structures with general knowledge**
+- I'm currently learning: **Attacks on the Cyber Kill Chain and how to prevent them**
 
  **<h3 align="left">Skills</h3>**
 
